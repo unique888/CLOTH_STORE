@@ -3,7 +3,7 @@
   <div class="bar-item bar-left">
     <div>
       <i class="icon service"></i>
-      <span class="text">你好啊</span>
+      <span class="text">客服</span>
     </div>
     <div>
       <i class="icon shop"></i>
