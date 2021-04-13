@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <nav-bar class="home-nav"><div slot="center">购物车</div></nav-bar>
-      <TabControl :titles="['流行', '新款', '精选']"
+      <TabControl :titles="['pop', '新款', '精选']"
               @tabClick="tabClick"
               class="tabcontrol" v-show="isTabFixed"
               ref="toptabcontrol"
